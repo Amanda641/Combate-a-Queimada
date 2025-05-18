@@ -1,0 +1,4 @@
+Foco,Vertices Salvos,Tempo Total,Agua Usada,Movimentos
+C,5,4,17,"D->C: ['C']; D->B: ['C', 'B']; D->D: []; E->E: []; F->F: []"
+B,5,4,17,"D->B: ['C', 'B']; D->C: ['C']; D->D: []; E->E: []; F->F: []"
+A,5,4,17,"D->B: ['C', 'B']; D->D: []; D->C: ['C']; E->E: []; F->F: []"
